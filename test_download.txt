@@ -1,0 +1,3 @@
+This is another test file.
+Stored originally on SERVER side.
+If you see this text on the CLIENT, download worked.
